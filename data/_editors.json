@@ -1,13 +1,13 @@
 [
     {
         "role": "owner",
-        "name": "List Owner",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Le un gamer",
+        "link": "https://www.youtube.com/@le-un-gamerGD"
     },
     {
         "role": "admin",
-        "name": "List Admin",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Ouiman24",
+        "link": "https://www.youtube.com/@Ouiman24"
     },
     {
         "role": "helper",
@@ -21,7 +21,7 @@
     },
     {
         "role": "dev",
-        "name": "List Coder",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Le un gamer",
+        "link": "https://www.youtube.com/@le-un-gamerGD"
     }
 ]
